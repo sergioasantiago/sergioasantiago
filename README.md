@@ -10,7 +10,7 @@
   <img src=https://img.shields.io/badge/sergio_santiago-black?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/sergioasantiago" target="_blank">
+<a href="https://github.com/sergioasantiago?tab=repositories" target="_blank">
   <img src=https://img.shields.io/badge/sergio_santiago-black?&style=for-the-badge&logo=github&logoColor=white alt=Github style="margin-bottom: 5px;" />
 </a>
 
