@@ -1,6 +1,7 @@
 ### Hey, I'm Sergio! 👋
 
 👨‍💻 Site Reliability Engineer
+
 🇧🇷 From Minas Gerais :cheese:, Brazil  
 
 ### Find me elsewhere 🌎  
