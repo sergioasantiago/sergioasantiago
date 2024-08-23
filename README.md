@@ -1,8 +1,7 @@
 ### Hey, I'm Sergio! 👋
 
-👨‍💻 Staff Site Reliability Engineer at [@freenowtech](https://github.com/freenowtech/)  
+👨‍💻 Site Reliability Engineer
 🇧🇷 From Minas Gerais :cheese:, Brazil  
-🇩🇪 Living in Hamburg, Germany. 
 
 ### Find me elsewhere 🌎  
 
